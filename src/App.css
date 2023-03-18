@@ -3,6 +3,7 @@
   display: flex;
   color: white;
   background-color: #020230;
+  overflow-y: hidden;
 }
 
 .main {
@@ -229,7 +230,7 @@
 }
  
 
-  
+
 @media only screen and (max-width: 480px) 
 {
   .main{
