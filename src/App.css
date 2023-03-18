@@ -4,6 +4,7 @@
   color: white;
   background-color: #020230;
   overflow-y: hidden;
+  border: 1px solid darkred;
 }
 
 .main {
